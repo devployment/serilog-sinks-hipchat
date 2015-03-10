@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Serilog.Sinks.HipChat</id>
+    <version>$version$</version>
+    <authors>Serilog Contributors</authors>
+    <description>Serilog event sink that writes events to HipChat.</description>
+    <language>en-US</language>
+    <projectUrl>http://serilog.net</projectUrl>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <iconUrl>http://serilog.net/images/serilog-nuget.png</iconUrl>
+    <tags>serilog logging hipchat</tags>
+    <dependencies>
+      <dependency id="Serilog" version="1.4.204" />
+    </dependencies>
+  </metadata>
+</package>
